@@ -1,6 +1,6 @@
 # Comprehensive Lab for Python AI Development Practice
 
-This lab builds directly on the [python_ai_cheatsheet.md](python_ai_cheatsheet), providing hands-on exercises to reinforce key concepts. It's designed for beginners to intermediate users, assuming basic Python familiarity. Each section includes:
+This lab builds directly on the [python_ai_cheatsheet](python_ai_cheatsheet.md), providing hands-on exercises to reinforce key concepts. It's designed for beginners to intermediate users, assuming basic Python familiarity. Each section includes:
 
 - **Objectives**: What you'll learn.
 - **Setup**: Any prerequisites.
