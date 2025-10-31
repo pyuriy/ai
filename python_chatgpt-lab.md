@@ -1,6 +1,6 @@
 # Comprehensive Python Lab to Work with ChatGPT
 
-This lab extends the previous Python AI development labs by focusing on integrating ChatGPT (via the OpenAI API) into Python applications. You'll learn to query GPT models, handle responses, build conversational agents, and manage advanced features like streaming and tools. It's hands-on, building toward a simple chatbot script.
+This lab extends the previous [Python AI development labs](python_ai_lab.md) by focusing on integrating ChatGPT (via the OpenAI API) into Python applications. You'll learn to query GPT models, handle responses, build conversational agents, and manage advanced features like streaming and tools. It's hands-on, building toward a simple chatbot script.
 
 **Assumptions**: Basic Python knowledge from prior labs. We'll use the `openai` library for API access. Note: OpenAI API usage incurs costs—start with a free tier or low-volume tests. As of October 2025, the library is at version ~1.40+; check `pip show openai` for yours.
 
